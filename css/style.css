@@ -18,3 +18,8 @@ footer {
 section {
   padding-top: 6rem;
 }
+
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+}
